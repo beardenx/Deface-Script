@@ -46,7 +46,7 @@ body{
 <body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
 <br><br><br><br><br><br><br><br><br><br>
 <!--<iframe width="0" height="0" src="https://www.youtube.com/embed/1-xGerv5FOk?autoplay=1" frameborder="0" allowfullscreen=""></iframe>
----><!--Tulisan Pertama--><center><font size="10" color="silver" face="courier new">Hacked By OrenG</font>
+---><!--Tulisan Pertama--><center><font size="10" color="silver" face="courier new">Hacked By d4rkpack3t</font>
 <br><br>
 <!-- Tulisan Kedua--><center><div id="foter" class="foter" style="position: center; width: 600px; height: 28px; margin: 0px; padding: 10px; font-size: 24px; text-align: center; color: rgb(255, 255, 255); font-family: &quot;trebuchet ms&quot;, Courier new, courier new, sans-serif; transform: transform-origin: 50% 0px 0px; background-color: rgb(0, 0, 0); border: 1px solid rgb(170, 170, 170); opacity: 0.5; ">
 <font face="courier new"><marquee color="lime" behavior="Flip" scrollamount="6" width="85%" style="width: 50%;">No System In Safe - Security Is Just An Illusion  - N45HT TEAM</marquee></font></div></span><!--Tengah--><br><br><br>
